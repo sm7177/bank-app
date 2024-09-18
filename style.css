@@ -1,0 +1,15 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 500px;
+    background-color:red;
+}
+
+input{
+    display:block;
+    margin-left: 163px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
